@@ -58,7 +58,7 @@ Complexity Metric
 
 By Arthur H. Watson and Thomas J. McCabe
 HTML
-http://hissa.nist.gov/HHRFdata/Artifacts/ITLdoc/235/title.htm
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-235.pdf
 PDF
 http://www.mccabe.com/iq_research_nist.htm
 
